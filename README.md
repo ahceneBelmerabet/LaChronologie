@@ -116,6 +116,13 @@ Chronology allows website creators to integrate interactive chronologies into th
 
  It’s always recommended to backup your files and your databases and to check
  your archives regularly so you can roll back if needed.
+ 
+ License
+ -------
+ 
+ Open source.
+ 
+ 
 
 
  Troubleshooting
