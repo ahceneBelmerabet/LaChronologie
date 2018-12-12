@@ -117,6 +117,11 @@ Chronology allows website creators to integrate interactive chronologies into th
  It’s always recommended to backup your files and your databases and to check
  your archives regularly so you can roll back if needed.
  
+  Copyright
+ -------
+ 
+ Copyright BELMERABET Ahcene 2018/2019.
+ 
  License
  -------
  
