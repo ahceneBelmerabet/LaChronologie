@@ -1,11 +1,10 @@
 
-LaChronologie (module pour Omeka S by Ahcene BELMERABET)
+LaChronologie (module for Omeka S by Ahcene BELMERABET)
 =============================
 
 LINK GITHUB "https://github.com/ahceneBelmerabet/LaChronologie"
 
-La chronologie permet aux créateurs de sites Web d'intégrer des chronologies interactives dans leurs sites.
-
+Chronology allows website creators to integrate interactive chronologies into their websites.
 
 
  Installation
